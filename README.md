@@ -1,4 +1,4 @@
-<h1 align="center"> Swift-UI Rorty iOS </h1>
+<h1 align="center"> Swift-UI MuslimBD iOS </h1>
 
 iOS Clean Architecture in Rorty is a sample project that presents modern, approach to [iOS](https://developer.apple.com/) application development 
 using [Swift](https://developer.apple.com/swift/) and latest tech-stack.
