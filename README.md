@@ -88,7 +88,6 @@ This project uses many of the popular libraries, plugins and tools of the androi
 - [Resolver](https://github.com/hmlongco/Resolver) - Dependency Injection library.
 - [Combine](https://developer.apple.com/documentation/combine) - Customize handling of asynchronous events by combining event-processing operators.
 - [Core Data](https://developer.apple.com/documentation/coredata) - Persist or cache data on a single device, or sync data to multiple devices with CloudKit.
-- [Lottie](https://lottiefiles.com/blog/working-with-lottie/how-to-add-lottie-animation-ios-app-swift) - JSON-based animation file format that enables designers to ship animations on any platform as easily as shipping static assets.
 - [Paging](https://developer.apple.com/documentation) - The Paging Library makes it easier for you to load data gradually and gracefully within your app's List.
 
 ### Code Analyze Tools
